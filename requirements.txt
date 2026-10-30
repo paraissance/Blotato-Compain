@@ -1,0 +1,6 @@
+requests>=2.31
+python-dotenv>=1.0
+tzdata>=2024.1
+pillow>=10.0
+opencv-python-headless>=4.8   # face detection: keeps the brand overlay off people's faces
+imageio-ffmpeg>=0.4.9         # bundles an ffmpeg binary -> slides-style videos render with no manual install

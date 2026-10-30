@@ -1,0 +1,6 @@
+.env
+# Rendered each run; never committed.
+content/cards/
+content/slides/
+__pycache__/
+*.pyc

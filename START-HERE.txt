@@ -1,0 +1,38 @@
+AGENT BROKER COACH — 1-WEEK SOCIAL CAMPAIGN
+===========================================
+
+Posts in 4 TIME BLOCKS A DAY, on YOUR (Pakistan) clock:
+   11:00 PM, 4:00 AM, 8:00 AM, 7:00 PM
+
+Each block = 4 image posts (:00 :03 :06 :09) + 2 UNIQUE slides videos (:12, :15)
+Per day  = 16 images + 8 videos
+Per week = 112 images + 56 videos  (every headline in the week is different)
+
+WHERE THINGS POST
+   Images -> Facebook, Instagram, LinkedIn
+   Videos -> Facebook, Instagram, YouTube, TikTok   (LinkedIn = no videos)
+
+FIRST TIME ON THIS PC (once)
+   pip install -r requirements.txt
+   copy .env.example .env
+   Then open .env and paste your keys:
+     BLOTATO_API_KEY     (required)
+     PEXELS_API_KEY      (required for photos)
+     ANTHROPIC_API_KEY   (recommended - fresh posts each week + no repeats)
+
+TEST THE VIDEO RENDER FIRST
+   python run.py slides
+   -> 4 URLs printed = everything works. 401 = fix BLOTATO_API_KEY in .env.
+
+RUN THE WHOLE WEEK
+   python run.py go --days 7
+
+   (This does NOT clear your calendar - your existing posts are left alone.
+    To wipe the calendar, run:  python run.py clear
+    Uploads pace ~7 seconds apart, so leave the window open until it finishes.)
+
+FOLDER SWAP ON A NEW BUILD
+   copy .env out -> delete old folder -> unzip new -> paste .env back.
+
+NOTE: AutismWorks is turned off (Agent Broker Coach only). The config is kept as
+a comment in config.py if you ever want it back.

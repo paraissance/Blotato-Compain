@@ -1,0 +1,2111 @@
+{
+  "brand": "agent_broker_coach",
+  "posts": [
+    {
+      "id": "ag-0001",
+      "theme": "morning follow-up habit",
+      "headline": "Send 5 Texts Before 9AM",
+      "image_prompt": "Real estate agent sending texts on a smartphone at a kitchen table with morning coffee, warm natural light",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Send 5 texts before 9am. That's it. Not a big campaign, not a new CRM — just 5 check-ins to people already in your phone. Agents who do this consistently rarely complain about a dry pipeline. Try it tomorrow and see what comes back. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Send 5 texts before 9am.\n\nNot a cold call. Not a mass email.\nJust 5 real people already in your phone.\n\nDo this every weekday and watch your pipeline stop drying up.\n\nWant the exact texts to send? Visit agentbrokercoach.com",
+          "hashtags": [
+            "#realestateagent",
+            "#realtortips",
+            "#leadgeneration",
+            "#newrealtor",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0002",
+      "theme": "busy but broke myth-bust",
+      "headline": "Busy Doesn't Mean You're Building a Business",
+      "image_prompt": "Overwhelmed real estate agent at a cluttered desk surrounded by papers and a laptop, looking stressed",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Busy and broke is the most common trap in real estate. If you're working all day but deals aren't closing, the problem usually isn't effort — it's where that effort is going. One hour a day on lead gen beats ten hours of busywork every single time. Book a free call and let's fix your focus: agentbrokercoach.com",
+          "hashtags": [
+            "#realestateagent",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Working all day. Zero deals closing.\n\nThat's not a hustle problem — that's a focus problem.\n\nOne hour of real lead gen beats ten hours of busywork.\nEvery time.\n\nBook a free coaching call at agentbrokercoach.com",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0003",
+      "theme": "commission discount objection",
+      "headline": "Stop Giving Your Commission Away",
+      "image_prompt": "Confident real estate agent shaking hands with a client at a listing presentation table, professional setting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Every time you discount your commission before they even ask, you're training clients to see you as cheap — not valuable. Your fee is not the problem. Your confidence in defending it is. I'll show you exactly what to say when a seller pushes back. DM me the word COACH to get started.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#agentbrokercoach",
+            "#salestips"
+          ]
+        },
+        "instagram": {
+          "text": "You're discounting your commission before they even ask.\n\nThat's not being competitive.\nThat's telling them you don't believe in your own value.\n\nI'll give you the exact words to hold your fee with confidence.\n\nDM me \"COACH\" and let's fix this.",
+          "hashtags": [
+            "#realtor",
+            "#realtortips",
+            "#realestatecoaching",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0004",
+      "theme": "lead follow-up ghosting",
+      "headline": "Leads Ghost You for One Reason",
+      "image_prompt": "Split image of a phone screen showing unread messages next to a real estate agent looking at their phone with a puzzled expression",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Leads don't ghost you because they're not interested. They ghost you because your follow-up felt like a sales call, not a conversation. One small shift in how you word your check-in changes everything. Visit agentbrokercoach.com and grab the free training on follow-up that actually gets replies.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestateagent",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Leads aren't ghosting you because they moved on.\n\nThey're ghosting you because your message felt like a pitch.\n\nChange one word in your follow-up and watch the replies start coming in.\n\nGrab the free training at agentbrokercoach.com",
+          "hashtags": [
+            "#realestateagent",
+            "#leadgeneration",
+            "#realtortips",
+            "#realestatemarketing",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0005",
+      "theme": "new agent first deal mindset",
+      "headline": "Your First Deal Is Closer Than You Think",
+      "image_prompt": "Excited new real estate agent holding a set of house keys outdoors in front of a sold sign, bright daylight",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "New agent tip: your first deal is almost never from a stranger. It's from someone who already knows you — they just don't know you sell real estate yet. Tell 10 people in your phone this week. That's not spamming, that's planting seeds. agentbrokercoach.com has a simple script to make it easy.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestateagent",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your first deal won't come from a cold stranger.\n\nIt'll come from someone already in your phone.\nThey just don't know you do real estate yet.\n\nTell 10 people this week. Use a simple, friendly text — no pitch needed.\n\nGet the script at agentbrokercoach.com",
+          "hashtags": [
+            "#newrealtor",
+            "#realestateagent",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0006",
+      "theme": "pipeline consistency system",
+      "headline": "Your Pipeline Dries Up for One Reason",
+      "image_prompt": "A visual of a real estate agent reviewing a simple weekly planner with color-coded lead gen time blocks at a clean desk",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Your pipeline dries up every few months because you stop prospecting the moment you get busy with a deal. It's the same cycle every time. The fix is boring but it works: block 60 minutes every single morning for lead gen — before email, before anything else. Want a schedule that actually holds? Visit agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your pipeline dries up because you stop prospecting when deals get busy.\n\nSame cycle. Every time.\n\nFix: block 60 minutes every morning — before email, before anything else.\nLead gen first. Always.\n\nWant the full daily schedule? agentbrokercoach.com",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatecoach",
+            "#leadgeneration",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0007",
+      "theme": "listing presentation confidence",
+      "headline": "You're Losing Listings Before You Walk In",
+      "image_prompt": "Real estate agent presenting to a couple at their kitchen table with a clean, professional listing presentation folder open",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If you're freezing up on listing presentations, it's not because you don't know enough. It's because you haven't said the words out loud enough times. Practice your presentation 10 times before you need it — in the car, in the mirror, wherever. Confidence is just repetition. Let's build yours: agentbrokercoach.com",
+          "hashtags": [
+            "#realtor",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You're not losing listings because you lack knowledge.\n\nYou're losing them because you haven't said the words enough times to own them.\n\nPractice your presentation 10 times before you need it.\nOut loud. Every time.\n\nBook a free coaching call at agentbrokercoach.com",
+          "hashtags": [
+            "#realtor",
+            "#realestateagent",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0008",
+      "theme": "social media content for agents",
+      "headline": "You Don't Need More Content Ideas",
+      "image_prompt": "Real estate agent filming a short video on a smartphone in front of a house for sale, casual and confident",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "You don't need more content ideas. You need to stop overthinking the ones you have. Post one thing today: answer the question a buyer or seller asked you this week. That's real value, it takes 5 minutes, and it builds trust faster than any fancy graphic ever will. More at agentbrokercoach.com",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You don't need more content ideas.\n\nPost this today: answer the question a buyer or seller asked you this week.\n\nReal answer. Your words. Five minutes.\nThat's the content that builds trust.\n\nMore simple strategies at agentbrokercoach.com",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realestateagent",
+            "#realestatetips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0009",
+      "theme": "broker recruiting systems",
+      "headline": "Recruiting on Vibes Doesn't Scale",
+      "image_prompt": "Broker or team leader sitting across from a prospective agent in a modern office, reviewing a structured onboarding document together",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If your recruiting strategy is 'I'll talk to people when I meet them,' you don't have a strategy — you have hope. Brokers who grow consistently have a simple repeatable system: a list, a cadence, and a clear reason for agents to say yes. Let's build yours. Visit agentbrokercoach.com to get started.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Recruiting on vibes doesn't scale.\n\nBrokers who grow have three things:\nA target list. A follow-up cadence. A clear value pitch.\n\nThat's it. No magic. Just a repeatable system.\n\nLet's build yours — visit agentbrokercoach.com",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0010",
+      "theme": "market shift mindset",
+      "headline": "The Market Shifted. Good.",
+      "image_prompt": "Focused real estate agent at a whiteboard mapping out a strategy with market data, determined and confident expression",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Every time the market shifts, half the agents disappear — and the ones who stay get a larger share of the business. This is not a crisis. It's a filter. If you're still showing up and sharpening your skills right now, you're setting yourself up for your best year. agentbrokercoach.com — let's make a plan.",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The market shifted. Good.\n\nHalf the agents will quit. The ones who stay split a bigger pie.\n\nThis isn't a crisis — it's a filter.\nShow up. Sharpen your skills. Stay.\n\nLet's make a plan: agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtor",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0011",
+      "theme": "plateaued agent breakthrough",
+      "headline": "Same Income Two Years in a Row? Here's Why.",
+      "image_prompt": "Real estate agent looking thoughtfully out a window of their car, parked in a suburban neighborhood, mid-day light",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If your income has been roughly the same for the past two years, you're not stuck because of the market. You're stuck because you hit your personal ceiling and kept doing the same things. Growing past a plateau almost always means changing one core habit — usually in how you prospect. Let's find yours at agentbrokercoach.com",
+          "hashtags": [
+            "#realestateagent",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Same income. Two years in a row.\n\nThat's not bad luck. That's a ceiling you built without knowing it.\n\nBreaking through almost always means changing one habit — usually how you prospect.\n\nFind your ceiling and break it: agentbrokercoach.com",
+          "hashtags": [
+            "#realtorlife",
+            "#realestateagent",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0012",
+      "theme": "done-for-you leads quick win",
+      "headline": "What If Leads Just Showed Up Ready?",
+      "image_prompt": "Real estate agent smiling while reviewing incoming lead notifications on a laptop and phone simultaneously, bright home office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Most agents spend more time chasing leads than talking to them. What if that flipped? Done For You Leads is built so you spend your energy on conversations — not on hunting. If you're tired of the feast-or-famine cycle, it's worth a look. Check it out at agentbrokercoach.com",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestateagent",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "What if you spent your day talking to leads instead of hunting for them?\n\nMost agents have it backwards.\nChasing. Cold calling. Starting over every month.\n\nThere's a better way — and it's set up for you.\n\nSee how at agentbrokercoach.com",
+          "hashtags": [
+            "#realestateagent",
+            "#leadgeneration",
+            "#realestatemarketing",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0013",
+      "theme": "follow-up consistency",
+      "headline": "Most Deals Die on Follow-Up Day 2",
+      "image_prompt": "close-up of a real estate agent's hand typing a text message on a phone at a desk with a coffee cup nearby, warm morning light",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Most agents quit following up after the second attempt. That's exactly when a serious buyer or seller starts paying attention. Set a reminder right now: pick 3 people from your cold list and send them a simple check-in today. Not a pitch — just a pulse check. Visit agentbrokercoach.com to build the follow-up system that keeps your pipeline full.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Most deals die on follow-up day 2.\n\nThat's when agents stop.\nThat's when buyers and sellers start trusting.\n\nToday's move: text 3 people you gave up on last month.\nNo pitch. Just 'Hey, still thinking about making a move?'\n\nBook a free coaching call at agentbrokercoach.com and let's build your follow-up game for real.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0014",
+      "theme": "new agent mindset",
+      "headline": "Nobody Told You This About Year One",
+      "image_prompt": "young real estate agent standing confidently in front of a sold sign outside a home, sunny suburban street, genuine smile",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Year one in real estate feels like treading water — and everyone around you looks like they're swimming laps. Here's the truth: most agents who 'look' busy in year one are broke by year two because they never built a real lead system. Focus on one lead source, work it daily, and track your numbers. That's how you build something that lasts. Learn more at agentbrokercoach.com.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Nobody told you year one would feel like this.\n\nBusy. Confused. Watching everyone else close deals.\n\nHere's what actually works: pick ONE lead source.\nWork it every single day for 90 days.\nTrack what happens.\n\nThat's it. Not ten strategies. One.\n\nDM me 'COACH' and let's map out your 90-day plan.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0015",
+      "theme": "listing presentation confidence",
+      "headline": "You're Freezing on the Listing Presentation",
+      "image_prompt": "real estate agent presenting to a couple at their kitchen table with a laptop open showing a market analysis, professional and relaxed atmosphere",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If you freeze when a seller asks 'Why should we list with you?' — that's not a confidence problem, it's a preparation problem. Practice your answer out loud three times before your next appointment. Not in your head. Out loud, standing up, like someone's watching. Preparation kills nerves. Visit agentbrokercoach.com to get the scripts and systems that make every listing appointment feel like home turf.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You're freezing on the listing presentation.\nNot because you're not good enough.\nBecause you haven't practiced the hard question out loud.\n\n'Why should we list with you?'\n\nSay your answer. Right now. Standing up. Out loud.\nDo it three times before your next appointment.\n\nGrab the free training at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtor",
+            "#realtortips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0016",
+      "theme": "daily routine / productivity",
+      "headline": "Your Morning Routine Is Costing You Deals",
+      "image_prompt": "real estate agent sitting at a clean home office desk at 7am reviewing a handwritten schedule with a focused expression, soft early light through a window",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Checking email first thing in the morning means you're spending your best mental energy on other people's problems before you've touched your own business. Flip it: spend the first 30 minutes every morning on lead generation only — calls, texts, DMs, door knocks. Whatever your method is, do it first. Your pipeline will look completely different in 60 days. Get a real daily structure at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Checking email first thing is costing you deals.\n\nYour best 30 minutes of the day are going to other people's priorities.\n\nTomorrow: no email until you've done your lead gen.\nCalls. Texts. DMs. Whatever your method is — do it first.\n\nTry it for 5 days. Watch your pipeline change.\n\nVisit agentbrokercoach.com for the full daily structure.",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatetips",
+            "#realestategrowth",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0017",
+      "theme": "objection handling / commission",
+      "headline": "When They Say 'Your Fee Is Too High'",
+      "image_prompt": "confident real estate agent sitting across from clients at a table, calm and composed, hands open in a relaxed explanatory gesture",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "'Your fee is too high' is not a rejection — it's a question in disguise. They're really asking: 'What do I get for this?' Stop defending the number and start showing the value. Have a clear, specific answer ready for what you do that a discount agent doesn't. Practice it until it feels natural. Book a free coaching call at agentbrokercoach.com and let's sharpen your value pitch.",
+          "hashtags": [
+            "#realestate",
+            "#realtor",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "'Your fee is too high.'\n\nThat's not a rejection. It's a question.\nThey're asking: what do I get for this?\n\nStop defending the number.\nStart showing the value — specifically.\n\nHave three concrete things you do that others don't.\nWrite them down today.\n\nBook a free coaching call at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtor",
+            "#realtortips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0018",
+      "theme": "lead generation system",
+      "headline": "Chasing Leads Is Not a Lead System",
+      "image_prompt": "real estate agent at a whiteboard sketching a simple lead funnel diagram with arrows, focused and energized, bright modern office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Chasing every shiny lead source is why your income looks different every single month. A real system means you know exactly where your next 5 leads are coming from — before you need them. Pick one source, build a repeatable process around it, and run it for 90 days straight before you add another. Chaos is not a strategy. Visit agentbrokercoach.com to build a lead system that actually runs.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestate",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Chasing leads is not a lead system.\n\nIf you don't know where your next 5 leads are coming from right now — you don't have a system yet.\n\nPick one source.\nBuild a repeatable process around it.\nRun it for 90 days before you add anything else.\n\nThat's the whole move.\n\nJoin the program at agentbrokercoach.com.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestate",
+            "#realestatemarketing",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0019",
+      "theme": "plateaued agent / income plateau",
+      "headline": "If Your Business Looks the Same as Last Year…",
+      "image_prompt": "real estate agent staring thoughtfully out an office window at a city street, reflective mood, late afternoon light",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If your business looks the same as last year, something in your daily habits has stayed the same too. Growth doesn't happen by accident in this industry. Write down the three activities you do every single day — then ask honestly: are any of them directly generating new business? If the answer is no, you found the problem. Visit agentbrokercoach.com and let's fix it together.",
+          "hashtags": [
+            "#realestate",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "If your business looks the same as last year — your habits do too.\n\nWrite down the three things you do every single day.\nNow ask: which one is directly bringing in new business?\n\nIf the answer is 'none of them' — you just found your problem.\n\nDM me 'COACH' and let's work on this together.",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0020",
+      "theme": "social media for agents",
+      "headline": "Post This When You Have No Idea What to Post",
+      "image_prompt": "real estate agent holding a phone filming a casual selfie-style video in front of a home they just listed, relaxed and authentic",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "When you have no idea what to post, answer the question you got asked most this week by a client or prospect. That's it. Real questions from real people in your market beat any trending template. Open your phone right now and check your last 10 text conversations — I'll bet there's a post idea sitting in there already. Visit agentbrokercoach.com for more ways to turn your daily work into content that attracts clients.",
+          "hashtags": [
+            "#realestate",
+            "#realestatemarketing",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "No idea what to post today?\n\nCheck your last 10 text conversations with clients.\nWhat did they ask you this week?\n\nAnswer that question in a 60-second video or a caption.\nThat's a post. Done.\n\nReal questions beat any template every time.\n\nGrab the free training at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realestatemarketing",
+            "#realtortips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0021",
+      "theme": "broker / team leader recruiting",
+      "headline": "The Agent You Want Is Already Talking to Someone",
+      "image_prompt": "broker having a relaxed one-on-one coffee conversation with a prospective agent at a modern café, both engaged and leaning in",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The agent you want to recruit isn't waiting around — they're already being courted by three other brokers. The one who wins the conversation isn't necessarily the one with the best split. It's the one who clearly explains how they'll help that agent grow. What's your specific pitch for a hungry agent who wants to level up fast? If you have to think too long, that's the gap. Visit agentbrokercoach.com to sharpen your recruiting conversation.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The agent you want to recruit is already talking to someone else.\n\nThe winner won't be the best split.\nIt'll be the broker who clearly shows them how to grow.\n\nWhat's your specific answer when they ask:\n'What will you do to help me close more deals?'\n\nIf it takes you more than 5 seconds — that's the gap.\n\nVisit agentbrokercoach.com to tighten your recruiting game.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0022",
+      "theme": "mindset / busy vs. productive",
+      "headline": "Feeling Productive and Being Productive Are Different",
+      "image_prompt": "split image concept: one side showing an agent buried in paperwork looking stressed, other side showing an agent on a phone call smiling with a simple to-do list visible, clean and clear visual",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Organizing your desk, re-reading old emails, and tweaking your bio for the fourth time all feel productive. None of them close deals. At the end of today, ask yourself one question: did I have a direct conversation with a potential client? If the answer is no, tomorrow you start there — everything else waits. Visit agentbrokercoach.com for a simple daily plan built around what actually moves the needle.",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Feeling productive and being productive are not the same thing.\n\nOrganizing files feels like work.\nTweaking your bio feels like work.\nNeither one closes a deal.\n\nEnd of day test: did you have a real conversation with a potential client today?\n\nThat's the only metric that matters tomorrow morning.\n\nBook a free coaching call at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#salestips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0023",
+      "theme": "sphere of influence / database",
+      "headline": "Your Next Deal Is Already in Your Phone",
+      "image_prompt": "real estate agent scrolling through their phone contacts list with a notepad and pen beside them, ready to take notes, warm indoor light",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Before you spend a dollar on paid leads, scroll through your phone contacts. Somewhere in there is a person who is thinking about buying, selling, or referring someone to an agent right now — they just haven't heard from you lately. Pick 5 names today and send a simple personal message. Not a mass text. One message, one person, that actually sounds like you. That's how deals start. Visit agentbrokercoach.com for the exact script that works.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your next deal is already in your phone.\n\nScroll your contacts right now.\nSomewhere in there is a person thinking about making a move — they just haven't heard from you.\n\nPick 5 names.\nSend 5 personal messages today.\nNot a mass text. A real one.\n\nDeals start there.\n\nGrab the free training at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0024",
+      "theme": "systems for scaling / drowning in busywork",
+      "headline": "Working Every Day But Nothing Is Growing",
+      "image_prompt": "real estate agent sitting at a cluttered desk with multiple browser tabs open, looking overwhelmed, papers everywhere, relatable and honest visual",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "'I'm working every day but nothing is growing' is the most common thing I hear from agents who are about to burn out. The problem is usually this: you're doing 20 things at a 5% effort level instead of 3 things at 100%. Write down everything you do in a week. Circle the two or three that directly bring in clients. Cut the rest or delegate it. That list is your new job description. Visit agentbrokercoach.com and let's build the system around it.",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Working every day but nothing is growing?\n\nHere's usually why:\nYou're doing 20 things at 5% instead of 3 things at 100%.\n\nThis week: write down everything you do.\nCircle the two things that directly bring in clients.\nThat's your actual job. Everything else is noise.\n\nDM me 'COACH' — let's simplify your business.",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoach",
+            "#realestatelife",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0025",
+      "theme": "follow-up consistency",
+      "headline": "Nobody Follows Up. That's Your Edge.",
+      "image_prompt": "A focused real estate agent at a clean desk typing on a laptop, morning light, confident expression",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Most agents quit following up after day one. That's not a lead problem — that's a habit problem. Set a reminder right now to touch five old leads today. One conversation can change your whole month. Visit agentbrokercoach.com to build the system that keeps your pipeline full.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Nobody follows up after day three.\n\nThat's not a lead shortage — that's a habit gap.\n\nSet five follow-up reminders right now, before you scroll again.\n\nOne reply can turn a dead lead into a closed deal. Book a free coaching call at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestateagent",
+            "#realtortips",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0026",
+      "theme": "new agent mindset",
+      "headline": "Year One Doesn't Have to Break You.",
+      "image_prompt": "A determined young real estate agent standing in front of a for-sale sign on a sunny residential street",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Year one feels like everyone else has a secret you don't. They don't — they just had someone show them the right moves earlier. The fastest shortcut is learning from someone already doing it. Grab the free training at agentbrokercoach.com and skip the expensive trial and error.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Year one feels like everyone else knows something you don't.\n\nThey don't — they just got the right moves shown to them sooner.\n\nYou don't have to figure it out alone.\n\nGrab the free training at agentbrokercoach.com.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestateagent",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0027",
+      "theme": "listing presentation confidence",
+      "headline": "One Line Wins the Listing. Here It Is.",
+      "image_prompt": "A confident real estate agent presenting to a couple at a kitchen table with a professional folder open",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The listing presentation isn't lost on price — it's lost before you ever quote a number. When a seller asks why they should choose you, most agents ramble. Instead, say this: 'I have a system that gets homes sold faster and for more — want me to walk you through it?' Then stop talking. Simple beats polished every time. Visit agentbrokercoach.com to sharpen your whole presentation.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The listing isn't lost on price — it's lost when you ramble.\n\nWhen they ask 'why you?' say: 'I have a system that gets homes sold faster and for more. Want me to walk you through it?' Then stop talking.\n\nSimple beats polished every time.\n\nDM me 'COACH' and let's dial in your whole presentation.",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatetips",
+            "#salestips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0028",
+      "theme": "lead generation system",
+      "headline": "Stop Hunting Leads. Start Attracting Them.",
+      "image_prompt": "A real estate agent relaxed at a desk reviewing inbound messages on a phone, modern bright office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Hunting for leads every single day is exhausting — and it doesn't scale. A real system brings leads to you while you're on appointments, sleeping, and living your life. Pick one lead source today, master it for 90 days, and stop dabbling in ten at once. Visit agentbrokercoach.com to see the Done For You Leads system that runs while you work.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestateagent",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Hunting for leads every day is exhausting — and it doesn't scale.\n\nPick ONE lead source. Work it hard for 90 days. Stop dabbling in ten at once.\n\nThat's how you build a pipeline that doesn't dry up.\n\nVisit agentbrokercoach.com to see how Done For You Leads works.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestate",
+            "#realestatemarketing",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0029",
+      "theme": "time management / schedule",
+      "headline": "Your Calendar Is Lying to You.",
+      "image_prompt": "Close-up of a real estate agent's planner with time blocks highlighted in bold colors on a wooden desk",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If every hour looks the same on your calendar, nothing is actually a priority. Block 9–11am for lead generation only — no emails, no errands, no exceptions. Protect that block like a listing appointment. Two focused hours beats eight scattered ones every single time. Visit agentbrokercoach.com and let's build a real schedule.",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "If every hour on your calendar looks the same, nothing is actually a priority.\n\nBlock 9–11am for lead gen only. No emails. No errands. No exceptions.\n\nTwo focused hours beats eight scattered ones.\n\nVisit agentbrokercoach.com to build a schedule that actually grows your business.",
+          "hashtags": [
+            "#realestateagent",
+            "#realtorlife",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0030",
+      "theme": "commission confidence / objection handling",
+      "headline": "They're Testing You, Not Your Fee.",
+      "image_prompt": "A real estate agent standing tall and calm across a table from a client, professional setting, confident body language",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "When a client pushes back on your commission, they're not really asking about money — they're asking if you believe in your own value. The moment you flinch, you lose. Practice saying 'My fee reflects what I deliver — here's exactly what that looks like' without apologizing. Confidence is the whole ballgame. DM 'COACH' or visit agentbrokercoach.com to work on this together.",
+          "hashtags": [
+            "#realestate",
+            "#salestips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "When they push back on your commission — that's not a money question.\n\nIt's a 'do you believe in yourself?' question.\n\nThe moment you flinch, you lose. Practice saying your fee out loud without apologizing. Today.\n\nDM me 'COACH' and let's build your confidence on the tough conversations.",
+          "hashtags": [
+            "#realtor",
+            "#salestips",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0031",
+      "theme": "broker / team leader recruiting",
+      "headline": "Great Agents Don't Come Looking for You.",
+      "image_prompt": "A broker in a professional office reviewing candidate profiles on a tablet, confident and strategic expression",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The best agents aren't scrolling job boards — they're already somewhere, quietly frustrated. Your job as a broker or team leader is to be the obvious better option before they start looking. That means showing up consistently with value, not just posting 'we're hiring.' Visit agentbrokercoach.com to learn how to recruit agents who actually produce.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The best agents aren't on job boards.\n\nThey're already somewhere — quietly frustrated, not quite looking yet.\n\nYour job is to be the obvious answer before they start searching.\n\nVisit agentbrokercoach.com to build a recruiting strategy that actually works.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0032",
+      "theme": "social media content for agents",
+      "headline": "You Have 3 Posts Worth of Content Right Now.",
+      "image_prompt": "A real estate agent photographing a home exterior with a phone, bright day, relaxed and purposeful",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "You don't have a content problem — you have a 'deciding what to post' problem. Right now, look around you: the question a client asked this week, the neighborhood you just showed, the mistake you almost made. That's three posts. Start with one sentence about something real that happened. People follow people, not brochures. Visit agentbrokercoach.com for more done-for-you content ideas.",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You have content sitting right in front of you right now.\n\nThe question a client asked this week. The neighborhood you just showed. The mistake you almost made.\n\nThat's three posts. Pick one. Write one real sentence about it.\n\nPeople follow people — not brochures. Visit agentbrokercoach.com for more ideas.",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realestateagent",
+            "#realtorlife",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0033",
+      "theme": "plateaued agent breakthrough",
+      "headline": "Same Results Every Month? Change One Thing.",
+      "image_prompt": "An agent at a whiteboard drawing a growth chart upward, determined and focused expression in a bright room",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If you're stuck at the same production level, doing more of the same won't fix it. Something in your routine has a ceiling — and you might not be able to see it from inside your own business. Changing one daily behavior before noon has broken more plateaus than any new app or tactic ever will. Book a free coaching call at agentbrokercoach.com and let's find your ceiling together.",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Stuck at the same production number month after month?\n\nDoing more of the same thing won't get you out.\n\nSomething in your daily routine has a ceiling — and it's hard to see from inside your own business.\n\nBook a free coaching call at agentbrokercoach.com. Let's find it.",
+          "hashtags": [
+            "#realestateagent",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0034",
+      "theme": "mindset — fear of rejection",
+      "headline": "The Call You're Avoiding Is the Deal You Need.",
+      "image_prompt": "A real estate agent taking a deep breath, hand on phone, about to make a call, determined look in a home office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "There's a call you've been putting off for three days. You know which one. That hesitation isn't protecting you — it's costing you. Pick up the phone in the next ten minutes, before your brain talks you out of it again. Action before comfort. That's the whole game. Visit agentbrokercoach.com when you're ready to make this a daily habit.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "There's a call you've been putting off for three days.\n\nYou know exactly which one.\n\nThat hesitation isn't protecting you — it's costing you a deal.\n\nMake the call in the next ten minutes, before your brain talks you out of it. Visit agentbrokercoach.com when you're ready to make this a habit.",
+          "hashtags": [
+            "#realtor",
+            "#realtorlife",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0035",
+      "theme": "systems for drowning agents",
+      "headline": "Busy and Broke Has a Cure. It's Not More Hours.",
+      "image_prompt": "A real estate agent calmly working through a streamlined checklist on a tablet, organized desk, relaxed posture",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Working ten-hour days and still not seeing consistent closes? The problem isn't effort — it's that the wrong tasks are eating your best hours. Write down everything you did today. Circle the three things that could actually bring in a client. Build your day around those three, and push everything else to the afternoon. Visit agentbrokercoach.com to get a system that makes the right work automatic.",
+          "hashtags": [
+            "#realestate",
+            "#realestateagent",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Working ten-hour days with nothing to show for it?\n\nThe problem isn't effort — the wrong tasks are eating your best hours.\n\nWrite down everything you did today. Circle the three things that could actually bring in a client. Protect those three.\n\nVisit agentbrokercoach.com and let's fix the system.",
+          "hashtags": [
+            "#realestateagent",
+            "#realtorlife",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0036",
+      "theme": "market shift opportunity",
+      "headline": "Slower Markets Make the Best Agents Visible.",
+      "image_prompt": "A real estate agent confidently walking through a quiet neighborhood with a sold sign in the background on a crisp morning",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "When the market slows down, average agents go quiet. That's your window. The agents who show up consistently right now — with answers, with listings, with real conversations — are the ones who own the next busy season. Don't wait for momentum. Create it. Visit agentbrokercoach.com and let's build your plan for the next 90 days.",
+          "hashtags": [
+            "#realestate",
+            "#realestatemarket",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "When the market slows, average agents go quiet.\n\nThat's your window.\n\nShow up consistently right now — with answers, with listings, with real conversations — and you'll own the next busy season.\n\nDon't wait for momentum. Create it. Visit agentbrokercoach.com to build your 90-day plan.",
+          "hashtags": [
+            "#realestateagent",
+            "#realestate",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0037",
+      "theme": "lead generation myth-bust",
+      "headline": "More Leads Won't Fix a Broken Follow-Up",
+      "image_prompt": "Real estate agent staring at a full inbox on a laptop, looking overwhelmed, warm office light, realistic photo style",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Buying more leads when your follow-up is broken is like pouring water into a bucket full of holes. The problem isn't the leads — it's what happens after you get them. Pick three people in your CRM right now and send them a real, personal message today. That's where the deals are hiding. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#leadgeneration",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "More leads won't fix a broken follow-up.\n\nMost agents spend money getting leads, then let them go cold in 48 hours.\n\nOpen your CRM. Find three people you haven't touched in two weeks.\nSend them a real, two-sentence check-in right now.\n\nThat's the move. Start there. 👇\nVisit agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#leadgeneration",
+            "#realtortips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0038",
+      "theme": "new agent confidence",
+      "headline": "Nobody Taught You This Before Your First Open House",
+      "image_prompt": "Confident young real estate agent setting up an open house sign on a sunny suburban lawn, photo-realistic, warm tones",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Your first open house isn't about selling the house — it's about collecting five real conversations. Stop trying to pitch every person who walks in. Ask one question: 'Are you already working with an agent?' Then listen. One good conversation beats ten business cards. Book a free call and let's build the habits that stick: agentbrokercoach.com",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Nobody taught you this before your first open house.\n\nStop trying to sell the house to every visitor.\nYour only job is five real conversations.\n\nAsk: \"Are you already working with an agent?\"\nThen just listen.\n\nOne honest conversation beats a stack of business cards every time.\n\nDM \"COACH\" and let's build on it. 🏡",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realtorlife",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0039",
+      "theme": "time management / productivity",
+      "headline": "Your To-Do List Is a Disguise for Avoidance",
+      "image_prompt": "Real estate agent writing a long to-do list at a desk while phone sits untouched nearby, moody natural light, close-up shot",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Every task that isn't a phone call or a meeting is just organized procrastination. If your to-do list has more than three items before noon, you're staying busy to avoid the thing that actually makes money. Today's challenge: do the scary call first. Everything else after. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your to-do list is just avoidance in disguise.\n\nAdmin. Research. \"Organizing\" your CRM.\nNone of that closes deals.\n\nThe scary call — the one you keep pushing to tomorrow — is the one that pays you.\n\nDo it first. Everything else after.\n\nWant a daily structure that actually works? Visit agentbrokercoach.com 👆",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatetips",
+            "#realestategrowth",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0040",
+      "theme": "objection handling / commission confidence",
+      "headline": "One Question Shuts Down Commission Objections",
+      "image_prompt": "Real estate agent sitting across from a couple at a kitchen table in a confident, calm posture, bright natural light, professional setting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Next time a seller pushes back on your commission, don't defend it — ask a question instead. Try this: 'What would it cost you if the home sat on the market 60 extra days?' Let that number sit in the air. Your fee isn't the problem. Their doubt is. And a good question dissolves doubt faster than any speech. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoach",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "One question shuts down commission objections.\n\nWhen they say your fee is too high, don't defend it.\nAsk: \"What would it cost you if this home sat 60 extra days?\"\n\nLet them do the math.\n\nYou're not expensive. You're the cheaper option.\nOwn it.\n\nGrab the free training at agentbrokercoach.com 🎯",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoach",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0041",
+      "theme": "plateaued agent / income consistency",
+      "headline": "Inconsistent Income Has One Root Cause",
+      "image_prompt": "Graph drawn on a whiteboard showing peaks and valleys, real estate agent standing in front of it with arms crossed, thinking, neutral background",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Feast-and-famine months don't happen because the market is bad. They happen because you stop prospecting the moment you get busy. The fix is boring: talk to five new people every single weekday — even when you have deals. Especially when you have deals. That's the whole system. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Inconsistent income has one root cause.\n\nYou stop prospecting the second a deal opens up.\nThen the deal closes — and your pipeline is empty again.\n\nFix it with one habit: five new conversations, five days a week, no matter what.\n\nBoring? Yes. Effective? Completely.\n\nLet's build the system together. DM \"COACH\" 📲",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0042",
+      "theme": "social media for agents",
+      "headline": "The Post That Always Gets You Leads",
+      "image_prompt": "Real estate agent smiling while typing on a smartphone, casual home office setting, warm lighting, candid feel",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The highest-performing social post for agents isn't a market update or a listing tour. It's a one-sentence lesson from your week. Something real, like: 'Seller wanted to price high. We priced right. Got three offers.' That's it. Specific, true, useful. Post that this week and watch what happens. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatemarketing",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The post that always gets you leads?\n\nA one-sentence lesson from your actual week.\n\nSomething like: \"Seller wanted to list high. We priced right. Got multiple offers.\"\n\nReal. Specific. Useful.\nNo fancy graphics needed.\n\nPost that today. See what it starts.\n\nMore content angles inside — visit agentbrokercoach.com 👆",
+          "hashtags": [
+            "#realestate",
+            "#realestatemarketing",
+            "#realtortips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0043",
+      "theme": "team leader / broker recruiting",
+      "headline": "Stop Selling Agents on Joining Your Team",
+      "image_prompt": "Broker having a relaxed, confident one-on-one conversation with a real estate agent at a coffee shop, natural light, modern setting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The best agents don't join teams because of your commission split. They join because you can clearly solve a problem they already have. Start every recruiting conversation with one question: 'What's the biggest thing holding your business back right now?' Then show them exactly how you fix that. Done. agentbrokercoach.com",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Stop selling agents on joining your team.\n\nThey don't care about your split or your brand story.\nThey care about one thing: can you solve their problem?\n\nStart every recruiting conversation here:\n\"What's the one thing holding your business back?\"\n\nThen show them exactly how you fix it.\nThat's the whole pitch.\n\nVisit agentbrokercoach.com to build your recruiting system. 🏆",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0044",
+      "theme": "mindset / avoiding distraction",
+      "headline": "The Advice That's Quietly Killing Your Business",
+      "image_prompt": "Real estate agent looking distracted, scrolling through phone with multiple browser tabs open on a laptop in the background, candid, moody lighting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "\"Try everything and see what works\" is the advice that keeps agents broke. When you spread across six strategies at once, none of them get enough effort to actually work. Pick one lead source. Run it hard for 90 days. Then judge it. Scattered effort creates scattered results. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatetips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The advice quietly killing your business?\n\n\"Try everything and see what works.\"\n\nSix strategies at half effort = zero results.\n\nPick one lead source.\nRun it hard for 90 days.\nThen decide if it works.\n\nFocus is the most underrated skill in real estate.\n\nReady to pick your one thing? Book a free call at agentbrokercoach.com 🎯",
+          "hashtags": [
+            "#realestate",
+            "#realestatetips",
+            "#realestatecoach",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0045",
+      "theme": "new agent first deals",
+      "headline": "Your Warmest Leads Aren't Online",
+      "image_prompt": "Real estate agent texting on phone with a handwritten list of names on a notepad beside them, bright natural light, close-up overhead shot",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Before you spend a dollar on online leads, write down 20 people who already know and like you. Text each one this week — not a pitch, just a genuine check-in. Tell them what you're doing. Ask if they know anyone who needs help. Your first deal is almost always inside that list. agentbrokercoach.com",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your warmest leads aren't online.\n\nBefore you buy a single ad, write down 20 people who already know you.\nText each one this week.\nNot a pitch — just a real check-in.\n\nTell them what you're up to.\nAsk if they know anyone who needs help.\n\nYour first deal is almost always inside that list.\n\nNeed a script? DM \"COACH\" and I'll send you one. 📲",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realtorlife",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0046",
+      "theme": "listing presentation confidence",
+      "headline": "Sellers Decide Before You Say a Word",
+      "image_prompt": "Real estate agent walking confidently up a driveway to a home carrying a presentation folder, golden hour lighting, upscale suburban home",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The listing is half-won or half-lost the moment you walk through the door. Your energy, your eye contact, how you carry yourself — sellers are reading all of it before your first slide. Practice your first 60 seconds as much as your close. First impressions in this business are worth real money. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Sellers decide before you say a word.\n\nYour confidence walking in the door.\nYour eye contact before you sit down.\nHow you carry yourself in the first 60 seconds.\n\nThat's what they're buying.\n\nPractice your entrance as hard as your close.\nIt's worth real money.\n\nGrab the free training at agentbrokercoach.com 🏡",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoaching",
+            "#realestatebroker",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0047",
+      "theme": "systems / scaling",
+      "headline": "A Business That Runs on Memory Will Break",
+      "image_prompt": "Cluttered real estate agent desk with sticky notes everywhere and missed call notifications on phone screen, overhead flat lay, realistic photo",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If your entire follow-up system lives in your head, you're one busy week away from dropping every ball in the air. Write down every step of your client process — from first contact to closing. Then do it the same way every single time. Consistency beats talent when the market gets hard. agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatebroker",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "A business that runs on memory will break.\n\nOne busy week and every follow-up drops.\nEvery client feels like they're starting from scratch.\nEvery deal feels like chaos.\n\nWrite down your process from first contact to close.\nDo it the same way every time.\n\nConsistency beats talent when things get hard.\n\nLet's build your system — visit agentbrokercoach.com 📋",
+          "hashtags": [
+            "#realestate",
+            "#realestatebroker",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0048",
+      "theme": "stuck agent / breaking plateau",
+      "headline": "If You're Coasting, You're Already Sliding Back",
+      "image_prompt": "Real estate agent leaning back in office chair staring at ceiling, calendar on wall shows months passing, muted tones, slightly cinematic",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Coasting feels like stability. It's not. In real estate, staying still means your pipeline is quietly draining and someone hungrier is calling your past clients. Pick one number you haven't hit yet. Write it down. Then tell me: what's the one thing you're not doing that would actually move you toward it? agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "If you're coasting, you're already sliding back.\n\nCoasting feels safe. It isn't.\nYour pipeline is quietly draining.\nSomeone hungrier is calling your past clients right now.\n\nPick one number you haven't hit yet.\nWrite it down.\nIdentify the one habit you've been skipping that gets you there.\n\nThat's your starting point.\n\nBook a free coaching call and let's map the rest. 👇\nagentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0049",
+      "theme": "lead gen mindset shift",
+      "headline": "You're Farming the Wrong People",
+      "image_prompt": "Real estate agent looking thoughtfully at a contact list on a laptop, warm office lighting, professional but relaxed",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "You're farming the wrong people. The hottest leads you have are the ones who already know and trust you — past clients, neighbors, people you've talked to in the last 90 days. Start there before you spend another dollar on cold traffic. Pick 10 names from your phone right now and send a simple check-in. That's it. Want a system that keeps this running on autopilot? Visit agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You're farming the wrong people.\n\nThe warmest leads you'll ever get aren't strangers on Zillow.\n\nThey're already in your phone.\n\nPick 10 contacts today. Send a real, no-pitch check-in. Watch what happens.\n\nWant a repeatable system around this? Link in bio → agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0050",
+      "theme": "new agent first 30 days",
+      "headline": "Do These 3 Things in Week One",
+      "image_prompt": "Enthusiastic new real estate agent at a clean desk with a notepad and coffee, bright natural light, motivated expression",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "New agent? Here's what actually matters in week one. Tell everyone you know you're in real estate — not a mass text, a real personal message. Preview every listing you can find in your market. And pick one lead source and commit to it for 90 days. That's the whole plan. No magic, just motion. Get the full new-agent game plan at agentbrokercoach.com.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "New agent? Do these 3 things in week one.\n\n1. Message everyone you know — personally, not a blast.\n2. Preview every listing you can find in your market.\n3. Pick ONE lead source and commit for 90 days.\n\nThat's the foundation. Everything else comes after.\n\nGrab the free training at agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0051",
+      "theme": "objection handling — commission",
+      "headline": "Never Drop Your Commission Again",
+      "image_prompt": "Confident real estate agent shaking hands with a client across a table, body language assertive and professional, bright modern office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The moment you discount your commission to win the listing, you've told the seller exactly how you'll negotiate on their home. Strong agents hold their fee — not out of arrogance, but because it signals how they operate. Next time a seller pushes back, try this: 'I charge what I charge because I get results. Let me show you what that looks like for your home.' Practice it out loud before your next appointment. Visit agentbrokercoach.com for more scripts that work.",
+          "hashtags": [
+            "#realtortips",
+            "#realestatetips",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The second you fold on your fee, you've shown the seller how you'll negotiate their deal.\n\nHold your commission.\n\nTry this when they push back:\n'I charge what I charge because I get results. Let me show you what that looks like.'\n\nSay it out loud before your next appointment.\n\nMore scripts at agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realtortips",
+            "#salestips",
+            "#realestatecoaching",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0052",
+      "theme": "productivity — time blocking",
+      "headline": "Block This Hour or Lose the Day",
+      "image_prompt": "Real estate agent blocking time on a physical planner with a pen, focused expression, clean minimalist desk setup",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If you don't protect 9–11am for lead generation, something else will take it — every single day. Email, texts, admin, showing requests — they'll fill every gap you leave open. Guard that window like a listing appointment. Two hours of real prospecting every morning changes your income faster than anything else you'll try. Start Monday. Visit agentbrokercoach.com to build the full daily schedule around it.",
+          "hashtags": [
+            "#realestate",
+            "#realtorlife",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "If you don't protect 9–11am for lead gen, something else will take it.\n\nEvery. Single. Day.\n\nTwo focused hours of prospecting beats eight hours of 'staying busy.'\n\nBlock it in your calendar right now. Name it. Protect it.\n\nWant the full daily schedule that actually works? Visit agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatetips",
+            "#realestatecoach",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0053",
+      "theme": "plateaued agents — breaking through",
+      "headline": "Same Month Again? One Thing Is Missing.",
+      "image_prompt": "Real estate agent staring at a flat line graph on a whiteboard, thoughtful not defeated, modern brokerage office background",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If your numbers have looked the same for several months in a row, it's usually not effort — it's that your lead source dried up and you didn't notice until the pipeline was empty. The fix isn't working harder. It's adding one new consistent source before you need it. Map out where your last five deals actually came from. That tells you exactly where to double down. Book a free call to work through it: agentbrokercoach.com.",
+          "hashtags": [
+            "#realestategrowth",
+            "#realestate",
+            "#realestatecoach",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Same numbers month after month?\n\nIt's not your effort. It's your source.\n\nYour last pipeline dried up — and you didn't see it coming.\n\nDo this today: write down where your last 5 deals came from. That's your real data.\n\nDouble down there. Then add one new source.\n\nReady to build something more consistent? Book a free call at agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestategrowth",
+            "#realestate",
+            "#realestatecoaching",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0054",
+      "theme": "social media for agents",
+      "headline": "One Post Type Always Gets Responses",
+      "image_prompt": "Real estate agent filming a casual phone video in front of a for-sale sign, relaxed and approachable, suburban neighborhood",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The post that consistently gets agents the most real responses isn't a market update or a just-sold graphic. It's the one where you show exactly what happened on a transaction — the problem, the fix, the lesson. No names needed. Just the story. People share what feels real. Try it this week with a deal you closed recently and watch the comments. More content angles that actually work at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realestatetips",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The post that always gets real responses?\n\nIt's not your market stats.\nIt's not your just-sold graphic.\n\nIt's the story of a deal — the problem, how you solved it, what you learned.\n\nNo names. Just the truth.\n\nWrite that post today. Watch what happens.\n\nMore angles that work → agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0055",
+      "theme": "follow-up — ghosted leads",
+      "headline": "They Didn't Ghost You. You Stopped.",
+      "image_prompt": "Phone screen showing an unread message thread, agent's hand hovering over it ready to respond, soft focused background",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Most agents stop following up after 2–3 attempts and assume the lead is dead. But most buyers and sellers make a move 4 to 8 touchpoints in — after most agents have already quit. The edge is just staying in the game longer. Set a reminder right now for a lead you gave up on two weeks ago and send one simple message: 'Hey, still thinking about making a move?' That's the whole play. More follow-up scripts at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "They didn't ghost you. You stopped.\n\nMost agents tap out after 2–3 tries.\nMost decisions happen way after that.\n\nSet a reminder right now for a lead you gave up on.\n\nSend this: 'Hey — still thinking about making a move?'\n\nThat's it. That's the follow-up most agents skip.\n\nGet more scripts at agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestate",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0056",
+      "theme": "broker/team leader — systems",
+      "headline": "A Team Without Systems Is Just Chaos",
+      "image_prompt": "Broker reviewing a simple process flowchart on a tablet with two agents seated across the table, collaborative and organized atmosphere",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If your team runs on you remembering everything, it's not a team — it's a job you gave yourself. The brokers who scale write down the process once, train to the document, and then inspect what they expect. Start with one workflow this week: lead handoff, onboarding a new agent, or your listing checklist. Document it in plain language. That one hour pays you back for months. Build your team the right way at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "A team without systems is just chaos with a commission split.\n\nIf it runs on your memory, it breaks when you're not there.\n\nThis week: pick one workflow and write it down.\nLead handoff. Listing checklist. New agent onboarding.\nAnything.\n\nOne documented process beats ten verbal instructions.\n\nReady to actually build a scalable team? Visit agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0057",
+      "theme": "mindset — fear of the phone",
+      "headline": "The Phone Isn't Scary. Silence Is.",
+      "image_prompt": "Real estate agent taking a deep breath before making a call, phone in hand, determined look, bright window in background",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Agents avoid the phone because rejection stings. But every day you don't call, someone else does — and they get the listing, the referral, the deal you needed. The phone isn't your problem. Silence is. Make three calls today before you do anything else. Not pitches — real conversations. Ask how people are, ask if they know anyone making a move. Three calls. That's today's win. Get the full call coaching at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatetips",
+            "#realtorlife",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The phone isn't scary. Silence is.\n\nEvery day you avoid it, someone else makes the call.\nAnd they get the listing.\n\nToday: make 3 real calls before anything else.\nNot pitches. Just real conversations.\n'How are you? Know anyone thinking of moving?'\n\nThree calls. That's it. Do it now.\n\nBook a free coaching call at agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestatetips",
+            "#realtorlife",
+            "#realestatecoaching",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0058",
+      "theme": "listing presentation confidence",
+      "headline": "Ask This Before Your Listing Presentation",
+      "image_prompt": "Agent on a pre-listing phone call, notepad with written questions beside them, calm and prepared expression, home office setting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Before your next listing appointment, call the seller and ask: 'Besides price, what matters most to you in choosing an agent?' That one question tells you exactly how to win the room before you ever walk in. You'll hear things like 'communication' or 'someone who knows the neighborhood' — and you can speak directly to that in your presentation. Most agents never ask. That's your edge. Get more listing scripts at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatetips",
+            "#realtortips",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Before your next listing appointment, make this call.\n\nAsk the seller: 'Besides price, what matters most in choosing an agent?'\n\nThey'll tell you exactly how to win.\nThen you walk in and speak directly to that.\n\nMost agents skip this call. That's why you'll beat them.\n\nWant the full pre-listing script? DM me COACH or visit agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestatetips",
+            "#realtortips",
+            "#realestatecoaching",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0059",
+      "theme": "done-for-you leads / lead system",
+      "headline": "What a Real Lead System Actually Looks Like",
+      "image_prompt": "Clean visual of a simple three-step lead funnel drawn on a whiteboard, agent pointing to it confidently, modern office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "A real lead system isn't a Zillow account you check sometimes. It's a source that consistently brings people in, a follow-up sequence that runs even when you're busy, and a way to track who's hot. That's it — three parts. Most agents have one of the three and wonder why income is inconsistent. If you want to see what a complete system looks like, visit agentbrokercoach.com and check out the Done For You Leads option.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestate",
+            "#realestatemarketing",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "A real lead system has 3 parts.\n\n1. A consistent source that brings people in.\n2. A follow-up sequence that runs when you're busy.\n3. A simple way to track who's ready to move.\n\nMost agents have one of the three. That's why income swings.\n\nWant to see the whole thing built for you? Visit agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestatemarketing",
+            "#realestatecoaching",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0060",
+      "theme": "recruiting — team leaders",
+      "headline": "Top Agents Watch How You Run Your Business",
+      "image_prompt": "Confident broker in a casual one-on-one conversation with a prospective agent at a coffee shop, warm and professional atmosphere",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The best agent you want to recruit is already watching you — your social posts, your reputation, how your current agents talk about you. Before you pitch them, they've already decided if you're worth a conversation. Your recruiting happens before the meeting. What does your presence say right now? If it's not saying 'I've built something worth joining,' that's the place to start. Get the recruiting playbook at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The agent you want to recruit is already watching you.\n\nYour posts. Your reputation. What your agents say about you.\n\nBy the time you invite them to coffee, they've already decided if you're worth their time.\n\nRecruiting starts before the conversation.\n\nWhat does your presence say right now?\n\nLet's build something worth joining. Visit agentbrokercoach.com — link in bio.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0061",
+      "theme": "open house system for new agents",
+      "headline": "Your Open House Is Leaking Leads",
+      "image_prompt": "A confident real estate agent standing at an open house sign-in table with a clipboard, bright natural light, modern home interior",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Most agents collect sign-in sheets and never follow up. That's not a strategy — that's throwing leads in the trash. After every open house, send a personal text to every single person within 2 hours. Not an email blast. A text. That one habit alone can change your month. Visit agentbrokercoach.com to see the full system.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your open house had 12 people through the door.\n\nYou followed up with zero of them.\n\nThat's not a lead problem. That's a habit problem.\n\nWithin 2 hours of every open house — send a personal text to each person who signed in. No templates. Just real words.\n\nWant the full follow-up playbook? Visit agentbrokercoach.com 👇",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#newrealtor",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0062",
+      "theme": "mindset shift for plateaued agents",
+      "headline": "Comfortable Is the Danger Zone",
+      "image_prompt": "A real estate agent sitting at a desk looking out the window with a thoughtful expression, muted tones, moody natural light",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The agents who plateau aren't lazy. They're comfortable. And comfortable feels safe — until the market shifts and the phone stops ringing. If you've hit the same ceiling two months in a row, something in your daily routine needs to change today, not next quarter. Book a free coaching call at agentbrokercoach.com and let's find the ceiling.",
+          "hashtags": [
+            "#realestatecoaching",
+            "#realtorlife",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Comfortable is the most dangerous place a real estate agent can live.\n\nIt feels like stability. It's actually stagnation.\n\nIf your numbers haven't moved in two months — your habits haven't moved either.\n\nPick one thing today. One call you've been avoiding. One habit you've been skipping. Do it before noon.\n\nReady to break through? Book a free call → agentbrokercoach.com",
+          "hashtags": [
+            "#realestatecoaching",
+            "#realtorlife",
+            "#realestategrowth",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0063",
+      "theme": "objection handling on price reductions",
+      "headline": "One Script Stops the Price War",
+      "image_prompt": "Close-up of a real estate agent on a phone call, looking calm and confident, notebook open on desk with a pen",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "When a seller pushes back on your price recommendation, most agents cave. Here's what to say instead: 'I'm not here to tell you what you want to hear. I'm here to get you to the closing table.' Then stop talking. Silence is your ally. That one line — delivered calmly — shifts the whole conversation. More scripts like this at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Seller says: 'Let's list higher and see what happens.'\n\nMost agents say: 'Okay.'\n\nHere's what the best agents say:\n'I want to get you the most money possible. Overpricing works against that goal.'\n\nThen they show the data. Then they go quiet.\n\nConfidence + data + silence = pricing control.\n\nLearn how to handle every tough seller conversation → agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoach",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0064",
+      "theme": "lead generation consistency for agents",
+      "headline": "Feast and Famine Has a Fix",
+      "image_prompt": "Split image of a calendar with some weeks full and some weeks empty, on a clean white desk with a coffee cup",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Your pipeline dries up every few months for one simple reason — you stop prospecting when you get busy. The agents with steady income protect their lead-gen time like a non-negotiable appointment. Even on a closing day. Even when the phone is blowing up. Block 60 minutes every single morning and treat it like a showing. Start building that habit at agentbrokercoach.com.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realtorlife",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Feast and famine isn't bad luck.\n\nIt's what happens when you stop prospecting the moment deals come in.\n\nSteady agents prospect every day — even busy days.\n\nBlock 60 minutes every morning. Lead gen only. No email. No Zillow browsing. No admin.\n\nThat one protected hour is the difference between a pipeline and a prayer.\n\nGrab the free training → agentbrokercoach.com",
+          "hashtags": [
+            "#leadgeneration",
+            "#realtorlife",
+            "#realestatecoaching",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0065",
+      "theme": "social media content for agents",
+      "headline": "This Post Type Gets You Clients",
+      "image_prompt": "Real estate agent smiling while typing on a laptop, sitting at a bright kitchen table with a coffee mug, casual home setting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Stop posting just listings. The post type that actually brings clients is the 'local expert take' — your opinion on something happening in your market right now. 3 sentences. No jargon. Just what a knowledgeable neighbor would say. Post one of those this week and watch how different the response is. Need more content that actually works? Visit agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realtortips",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The post that keeps bringing agents new business?\n\nNot a listing. Not a sold sign.\n\nIt's the 'local expert take.'\n\nShare YOUR read on what's happening in your market right now. 3 sentences. Plain language. No buzzwords.\n\nPeople follow agents who sound like they actually know the market — not ones who just post properties.\n\nDM 'COACH' and I'll show you the full content framework.",
+          "hashtags": [
+            "#realestatemarketing",
+            "#realtortips",
+            "#realestatecoach",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0066",
+      "theme": "broker recruiting with culture and systems",
+      "headline": "Agents Join Teams for This Reason",
+      "image_prompt": "Team of real estate professionals gathered around a conference table, engaged in a discussion, modern bright office setting",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Agents don't leave brokerages because of splits. They leave because nobody invested in them. And they join teams for the same reason — they want to grow, not just get a desk. If you're recruiting, lead with what you'll actually teach them in their first 90 days. Get specific. That specificity is what closes top talent. Build your recruiting system at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Agents don't choose teams based on splits alone.\n\nThey choose based on one question they're afraid to ask out loud:\n\n'Will someone actually help me grow here?'\n\nIf your recruiting pitch doesn't answer that with specifics — you're losing them to whoever does.\n\nTell them exactly what week 1, week 4, and week 12 looks like on your team.\n\nReady to build a recruiting system that works? Visit agentbrokercoach.com",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestatecoaching",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0067",
+      "theme": "time management and daily priorities",
+      "headline": "Three Tasks. That's It. Do Them First.",
+      "image_prompt": "Close-up of a handwritten to-do list with only three items on it, a pen resting beside it on a clean desk",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Every morning, before email or social media, write down the three things that will actually move your business forward today. Not your full to-do list. Just three. The agent who does three revenue-producing activities every single day beats the one with a 20-item list every time. Try it tomorrow morning and see how the day feels different. More real-world systems at agentbrokercoach.com.",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatetips",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Before you open your email tomorrow morning — write down three things.\n\nThree tasks that will directly move a deal forward or bring in a lead.\n\nNot 10. Not 20. Three.\n\nDo those first. Everything else waits.\n\nThat's the whole system. It sounds too simple. It works anyway.\n\nWant the full daily structure top agents use? Visit agentbrokercoach.com",
+          "hashtags": [
+            "#realtorlife",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#salestips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0068",
+      "theme": "myth-bust on online leads",
+      "headline": "Online Leads Aren't Your Problem",
+      "image_prompt": "A real estate agent staring at a laptop screen showing a lead notification, looking skeptical, modern home office background",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "More online leads won't fix things if you're not calling the ones you already have within 5 minutes. The research is consistent — response time is everything. A lead that sits for an hour is basically cold. Before you spend another dollar on lead sources, audit how fast you're actually calling the ones coming in right now. Fix the speed. Then scale. Get help building the system at agentbrokercoach.com.",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestatetips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You don't have a lead problem.\n\nYou have a response-time problem.\n\nA lead that waits an hour might as well be cold.\n\nBefore you buy more leads — check: how fast are you calling the ones already coming in?\n\nFix the speed first. Then talk about adding volume.\n\nBook a free coaching call and let's look at your whole lead process → agentbrokercoach.com",
+          "hashtags": [
+            "#leadgeneration",
+            "#realestatetips",
+            "#realestatecoach",
+            "#realtortips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0069",
+      "theme": "new agent first-year confidence",
+      "headline": "The First Rejection Isn't the Last Deal",
+      "image_prompt": "A young real estate agent sitting on a bench outside, looking reflective but determined, with a notebook in hand",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "Every agent remembers the first time a prospect said no — or worse, just disappeared. It feels personal. It's not. Rejection in real estate is just math. The more conversations you have, the more deals you close. New agents who win fast aren't the ones who avoid rejection. They're the ones who collect it faster than everyone else. Let's talk about what your first 90 days should actually look like at agentbrokercoach.com.",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatecoaching",
+            "#realestate",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Your first 'no' in real estate feels like a verdict.\n\nIt's not. It's just the entry fee.\n\nEvery agent who's doing well right now has a drawer full of rejections they survived.\n\nThe goal in year one isn't to avoid the no's. It's to get through them faster than you thought you could.\n\nYou're closer than you think. Keep going.\n\nGrab the free training for new agents → agentbrokercoach.com",
+          "hashtags": [
+            "#newrealtor",
+            "#realestatecoaching",
+            "#realestate",
+            "#realtorlife",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0070",
+      "theme": "database and sphere of influence for consistent income",
+      "headline": "Your Database Is a Gold Mine You're Ignoring",
+      "image_prompt": "A real estate agent scrolling through contacts on a smartphone, sitting at a kitchen table with sunlight coming through the window",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The agents with the most consistent income aren't always the best marketers. They're the ones who stay in touch with their past clients like a real human being — not just at renewal time. One personal check-in text to 5 people in your database today costs you nothing. And it keeps you top of mind when their neighbor asks if they know a good agent. Start there. More on this at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatemarketing",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "You have deals sitting in your phone right now.\n\nNot from strangers. From people who already know and like you.\n\nPast clients. Old contacts. People you helped years ago.\n\nThey just haven't heard from you lately.\n\nSend 5 personal check-in texts today. Not a mass email. Not a newsletter. A real text.\n\nThat's the whole move.\n\nWant a full database reactivation script? DM me 'COACH.'",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#leadgeneration",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0071",
+      "theme": "team leader systems for scaling",
+      "headline": "If You Left, Would It Run Without You?",
+      "image_prompt": "A real estate team leader standing at a whiteboard with a workflow diagram, colleagues seated and engaged, bright modern office",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "If you took two weeks off tomorrow, would your team keep moving — or would everything stall? Most team leaders are still the system. That's not a team. That's a job with extra people. Real scale means your processes run without your daily presence. If that's not true yet, that's the work right now. Let's build the systems together at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "Quick test for team leaders:\n\nIf you disappeared for two weeks — would your team close deals or freeze up?\n\nIf the answer is freeze — you're not running a team. You're running yourself ragged with help.\n\nReal leverage means documented systems your agents can follow without you in the room.\n\nThat's what we build in coaching.\n\nVisit agentbrokercoach.com to see how it works.",
+          "hashtags": [
+            "#realestatebroker",
+            "#brokerlife",
+            "#realestategrowth",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    },
+    {
+      "id": "ag-0072",
+      "theme": "listing presentation confidence and preparation",
+      "headline": "Win the Listing Before You Arrive",
+      "image_prompt": "A real estate agent reviewing a printed market analysis report in a car before walking into a listing appointment, focused expression",
+      "image_url": "",
+      "variants": {
+        "facebook": {
+          "text": "The listing presentation doesn't start when you sit down at the kitchen table. It starts the moment the seller Googles your name. What do they find? A professional who clearly knows their market — or a blank profile and a Zillow page? Do the work before you show up. Research the street, know the comps cold, and have one sharp insight ready that they've never heard from another agent. That preparation is what wins listings. Get more presentation strategies at agentbrokercoach.com.",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoaching",
+            "#agentbrokercoach"
+          ]
+        },
+        "instagram": {
+          "text": "The listing isn't won at the kitchen table.\n\nIt's won in the 48 hours before you get there.\n\nKnow every comp on the street. Have one insight they haven't heard. Show up with a plan, not just a presentation.\n\nWhen you walk in knowing more than they expected — the conversation changes completely.\n\nYou stop pitching and start leading.\n\nWant the full listing prep checklist? Visit agentbrokercoach.com",
+          "hashtags": [
+            "#realestate",
+            "#realtortips",
+            "#realestatecoach",
+            "#realestatetips",
+            "#agentbrokercoach"
+          ]
+        }
+      },
+      "status": "draft"
+    }
+  ],
+  "slides_urls": [
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/bf8d9b3c-fd69-47c8-b836-400d2c6a3052.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/1589bcb2-a95a-462c-8a09-cdc3964f32e9.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/0c52da64-3cbf-447e-ae47-b784351a7282.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/f4e959bb-73ae-4adc-b52f-910658792228.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/5b3cb377-f8bf-46f8-b3b8-93dbdd85f4ad.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/4b0c5725-7942-43cc-9ae4-61ed362599a6.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/8da06d7d-e098-4472-a426-e6ce43af2784.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/b902a854-3ee9-4053-934b-274f1c23fa34.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/8303526f-c93b-4566-8a61-4c3798d78b03.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/eb5a3d9c-72d4-44b5-a459-8d1dbac984c7.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/1a0a1da5-599d-47fc-813b-55c56e9e765b.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/e058eb59-ff28-4550-8e9e-08714b906b68.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/23084ca1-b75b-4e2e-8615-7daccd4a39c7.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/44500bf5-86d2-4460-a696-11b72a9d8c9f.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/9bac16d0-e9d0-435b-84e9-f95d2b6b736a.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/fbd4a744-3b40-4c79-9f62-5169dc93f691.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/f1b2e697-4896-4442-9188-9c9739ae80cc.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/8d44b57e-55e5-4027-abe6-ec64c4b1e1bc.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/0112eb0a-8315-4ddc-97bd-78a43aa69184.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/03a6ae51-aced-4471-94c3-d7c9e00c7a2d.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/5cbfb2ee-efb2-4858-9fd6-2f07695824ff.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/f073ca47-ec11-4536-8153-ffe39e779055.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/e691c989-714d-493d-99bb-945b711777ff.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/893ca0d3-632e-40f7-a2b3-c5a1f8ca13b9.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/08c8a8cf-58d8-4bff-a7f8-f8ca2e1f2035.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/c6afe3d1-bc81-40de-b734-96768e744722.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/b7d4943e-1cac-4a4b-872a-57b9979bd59c.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/23589f3e-1372-43f9-bc40-bfbe3478d1bb.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/23784c83-6061-42e7-91ca-d5f90ea9f916.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/40a8a20b-82e1-4136-9d2c-ad43844ddaec.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/07b08a4f-8778-4c43-8746-52d262f2b3cd.mp4",
+    "https://database.blotato.io/storage/v1/object/public/public_media/df6ece0b-f899-4eaf-9f61-3f0f9490a648/006a9a21-80b9-46a3-8225-c13825bcb058.mp4"
+  ]
+}
