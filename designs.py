@@ -1,6 +1,7 @@
 """Brand-aware premium design system (portrait 1080x1350).
 
 Agent Broker Coach: navy/gold, 5 Jody cut-out designs + 3 simple + 4 photo.
+Done For You Leads: midnight/sky blue (doneforuleads.com), same mix as ABC.
 AutismWorks: deep teal + spectrum (prism-not-puzzle), 6 simple + 6 photo.
 
 Photo posts use a duotone brand treatment + graphic overlays so they look
@@ -25,6 +26,12 @@ NAVY2 = (18, 56, 100)
 GOLD = (242, 183, 5)
 CREAM = (244, 238, 224)
 
+# --- Done For You Leads palette (the website's colours)
+MIDNIGHT = (15, 28, 43)
+DFY_BLUE = (30, 78, 118)
+SKY = (111, 161, 204)
+SKY_TINT = (234, 242, 249)
+
 # --- AutismWorks palette (prism, not puzzle)
 TEAL = (94, 200, 209)
 TEAL_D = (15, 58, 70)
@@ -38,7 +45,13 @@ THEME = {
         cream=CREAM, cream_text=NAVY, soft=(220, 228, 240),
         name="Jody McNamer", role="Agent Broker Coach", badge="TOP COACH",
         tip="COACHING TIP", cta="LET'S TALK", duo_dark=(8, 22, 46), duo_light=(150, 180, 222),
-        spectrum=False, icon="house"),
+        spectrum=False, icon="house", tagline="Coaching with Jody McNamer"),
+    "done_for_you_leads": dict(
+        base=MIDNIGHT, base2=DFY_BLUE, accent=SKY, accent_text=MIDNIGHT, text=WHITE,
+        cream=SKY_TINT, cream_text=(20, 32, 43), soft=(213, 230, 242),
+        name="Jody McNamer", role="Done For You Leads", badge="DONE FOR YOU",
+        tip="LEAD TIP", cta="BOOK A CALL", duo_dark=(10, 22, 36), duo_light=(150, 190, 226),
+        spectrum=False, icon="house", tagline="Done For You Leads"),
     "autismworks": dict(
         base=TEAL_D, base2=TEAL_D2, accent=TEAL, accent_text=(8, 32, 40), text=WHITE,
         cream=AW_CREAM, cream_text=TEAL_D, soft=(205, 232, 232),
@@ -568,6 +581,20 @@ RECIPES = {
         ("jody", jody_diagonal, None),
         ("simple", simple_split, None),
         ("other", other_frame, "bright modern living room interior"),
+        ("jody", jody_coachcard, None),
+    ],
+    "done_for_you_leads": [
+        ("jody", jody_spotlight, None),
+        ("simple", simple_editorial, None),
+        ("other", other_hero, "real estate agent talking on phone at desk"),
+        ("jody", jody_band, None),
+        ("other", other_property, "for sale sign in front of house"),
+        ("simple", simple_bold, None),
+        ("jody", jody_badge, None),
+        ("other", other_split, "laptop showing marketing analytics dashboard"),
+        ("jody", jody_diagonal, None),
+        ("simple", simple_split, None),
+        ("other", other_frame, "home buyers browsing listings on a tablet"),
         ("jody", jody_coachcard, None),
     ],
     "autismworks": [

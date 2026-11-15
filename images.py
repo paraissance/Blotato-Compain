@@ -15,6 +15,10 @@ THEMES = {
         "bg": (11, 37, 69), "band": (16, 52, 95), "accent": (242, 183, 5),
         "headline": (255, 255, 255), "meta": (183, 201, 226), "spectrum": False,
     },
+    "done_for_you_leads": {
+        "bg": (15, 28, 43), "band": (30, 78, 118), "accent": (111, 161, 204),
+        "headline": (255, 255, 255), "meta": (190, 212, 232), "spectrum": False,
+    },
     "autismworks": {
         "bg": (18, 46, 58), "band": (24, 60, 74), "accent": (94, 200, 209),
         "headline": (255, 255, 255), "meta": (190, 214, 220), "spectrum": True,

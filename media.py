@@ -32,7 +32,7 @@ def build_image(mode, brand_key, brand_name, headline, website, keywords, out_pa
     pexels = os.environ.get("PEXELS_API_KEY")
     if mode == "photo":
         try:
-            if brand_key in ("agent_broker_coach", "autismworks"):
+            if brand_key in ("agent_broker_coach", "done_for_you_leads", "autismworks"):
                 return _abc_image(brand_key, brand_name, headline, website,
                                   keywords, out_path, idx, pexels, recipe_idx=recipe_idx)
             if pexels and keywords:

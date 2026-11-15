@@ -1,7 +1,9 @@
-# Agent Broker Coach — 1-Week Social Campaign
+# Weekly Social Campaign — Agent Broker Coach and Done For You Leads
 
-Automated, on-brand posts and videos for **Agent Broker Coach**, scheduled to
-Blotato on YOUR (Pakistan) clock. A real photo background with your bold
+Automated, on-brand posts and videos for **Agent Broker Coach** and **Done For
+You Leads**, one brand per run, scheduled to Blotato on YOUR (Pakistan) clock.
+DFY posts one minute after ABC's slots, to Facebook, Instagram, YouTube and
+TikTok (it has no LinkedIn page). A real photo background with your bold
 headline on it, plus two video types per block. One week, no repeats.
 
 - **4 blocks/day** — 11 PM, 4 AM, 8 AM, 7 PM (Pakistan time)
@@ -47,8 +49,10 @@ python run.py slides
 
 ## Run the full week
 ```
-python run.py go --days 7
+python run.py go --brand agent_broker_coach --days 7
+python run.py go --brand done_for_you_leads --days 7
 ```
+`--brand` is required: each run schedules one brand only.
 This runs 4 steps: write fresh posts → schedule all images → render every video
 (one unique video per slot) → schedule all video slots.
 
@@ -64,10 +68,10 @@ This runs 4 steps: write fresh posts → schedule all images → render every vi
 > want to keep. Uploads pace ~7s apart, so leave the terminal open until it's done.
 
 ## Running from JodyOS (Claude Code routine)
-JodyOS (Social Media → Agent Broker Coach → "Run a campaign week") starts a
-Claude Code routine on this repository. The routine runs
-`python run.py go --days N` in the cloud, then commits `state.json` and
-`content/agent_broker_coach_drafts.json` back to `main` so next week never
+JodyOS (Social Media → Agent Broker Coach or Done For You Leads → "Run a
+campaign week") starts a Claude Code routine on this repository. The routine
+runs `python run.py go --brand <key> --days N` in the cloud, then commits
+`state.json` and `content/*_drafts.json` back to `main` so next week never
 repeats a headline. The keys (`BLOTATO_API_KEY`, `PEXELS_API_KEY`,
 `ANTHROPIC_API_KEY`) live in the routine's cloud environment, never in this
 repository. Rendered images and videos are not committed.

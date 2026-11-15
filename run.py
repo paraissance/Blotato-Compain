@@ -7,6 +7,7 @@ Usage:
   python run.py generate --brand all --count 7   # write draft content via Claude
   python run.py publish  --brand all --dry-run   # preview the exact Blotato payloads
   python run.py publish  --brand all             # schedule everything into Blotato
+  python run.py go --brand agent_broker_coach --days 7   # one brand's whole week
 """
 
 import argparse
@@ -591,6 +592,13 @@ def cmd_go(args):
     import argparse as _ap
     import shutil
     import state
+    # With more than one brand, a run must say which: pressing Start for one
+    # brand must never schedule a week for the other.
+    if not args.brand:
+        if len(config.BRANDS) > 1:
+            sys.exit(f"Name the brand: --brand {' or '.join(config.BRANDS)} (or --brand all).")
+        args.brand = "all"
+    brands = _brands(args.brand)
     platforms = [p.strip() for p in args.platform.split(",") if p.strip()]
     plist_label = " + ".join(platforms)
     off = state.get_offset()
@@ -625,7 +633,7 @@ def cmd_go(args):
         print(f"Step 1 of 5 — writing {count} brand-new posts per brand with AI "
               f"(this takes a minute)...\n")
         ok = False
-        for key, cfg in _brands("all"):
+        for key, cfg in brands:
             try:
                 print(f"  {cfg['name']}:")
                 path, n = generator.generate(key, cfg, count, config.GEN_MODEL)
@@ -649,7 +657,7 @@ def cmd_go(args):
     print(f"\nStep 2 of 4 — scheduling the image posts "
           f"(16/day across 4 blocks: 11 PM, 4 AM, 8 AM, 7 PM PK) ({plist_label})...\n")
     for plat in platforms:
-        cmd_publish(_ap.Namespace(brand="all", platform=plat, dry_run=False, no_cards=False,
+        cmd_publish(_ap.Namespace(brand=args.brand, platform=plat, dry_run=False, no_cards=False,
                                   start=getattr(args, "start", None), days=args.days,
                                   skip_video=True, only_video=False, offset=off))
 
@@ -663,14 +671,14 @@ def cmd_go(args):
     print(f"\nStep 3 of 4 — rendering {n_needed} UNIQUE videos per brand "
           f"(distinct content + rotating design; ~{est_min} min)...\n")
     try:
-        _render_slides(_brands("all"), n_needed, _client())
+        _render_slides(brands, n_needed, _client())
     except Exception as e:
         print(f"  (couldn't render videos: {str(e)[:120]})")
 
     print(f"\nStep 4 of 4 — scheduling the video slots (2 unique videos per block) "
           f"({plist_label})...\n")
     for plat in platforms:
-        cmd_publish(_ap.Namespace(brand="all", platform=plat, dry_run=False, no_cards=False,
+        cmd_publish(_ap.Namespace(brand=args.brand, platform=plat, dry_run=False, no_cards=False,
                                   start=getattr(args, "start", None), days=args.days,
                                   skip_video=False, only_video=True, offset=off))
 
@@ -679,7 +687,7 @@ def cmd_go(args):
         # even without AI generation, remember what went out so a later AI run
         # (with an Anthropic key) won't reword this week's headlines next week.
         try:
-            for _key, _cfg in _brands("all"):
+            for _key, _cfg in brands:
                 _p = os.path.join("content", f"{_key}_drafts.json")
                 if os.path.exists(_p):
                     with open(_p, encoding="utf-8") as _f:
@@ -701,6 +709,7 @@ def main():
     sub.add_parser("schedules").set_defaults(func=cmd_schedules)
 
     go = sub.add_parser("go")
+    go.add_argument("--brand", default=None, help="which brand (a key in config.BRANDS), or all")
     go.add_argument("--days", type=int, default=7)
     go.add_argument("--platform", default="facebook,instagram,linkedin,youtube,tiktok")
     go.add_argument("--videos", type=int, default=0, help="(unused — AI-voice is disabled; every video slot now gets its own unique slides video)")

@@ -70,7 +70,8 @@ def vtheme(brand_key):
     return dict(base=th["base"], base2=th["base2"], accent=th["accent"],
                 accent_text=th["accent_text"], text=th["text"],
                 cream=th["cream"], cream_text=th["cream_text"], soft=th["soft"],
-                spectrum=th["spectrum"], name=th["name"], dark=dark)
+                spectrum=th["spectrum"], name=th["name"], dark=dark,
+                tagline=th.get("tagline", th["name"]))
 
 
 # --------------------------------------------------------------- backgrounds
@@ -654,23 +655,33 @@ CARD_BANK = [
     ("Turn talk into closings", ["A pipeline you trust", "Confidence on every call", "More listings won"]),
 ]
 
+# Brands whose video cards differ from the coaching set above.
+CARD_BANKS = {
+    "done_for_you_leads": [
+        ("Your edge, defined",       ["Your unique selling point", "Why clients pick you", "Built into every ad"]),
+        ("The right people",         ["Micro-audiences", "Not the whole zip code", "Buyers and sellers who fit"]),
+        ("Messaging that sounds like you", ["Ads in your voice", "Landing pages that match", "No generic templates"]),
+        ("Speed to lead",            ["Texts within minutes", "Follow-up that never sleeps", "Nothing slips through"]),
+        ("Numbers in plain English", ["What came in", "What it cost", "What converted"]),
+        ("Done for you",             ["Ads and landing pages", "Follow-up sequences", "Coaching to the close"]),
+        ("Stand out online",         ["No more lookalike profiles", "One clear reason to call", "Seen by the right people"]),
+        ("A steady pipeline",        ["Leads every week", "Tracked and nurtured", "CRM set up right"]),
+    ],
+}
+
 _STOP_ACCENT = {"the","a","an","and","or","of","to","for","in","on","is","are","your",
                 "you","that","with","this","it","they","not","but","most","every"}
 
 
-def _clean_body(text):
-    """Drop the CTA/website tail from a post body, keep the substance."""
+def _clean_body(text, web=""):
+    """Drop the brand's website from a post body, keep the substance."""
     t = " ".join((text or "").split())
-    for cut in ("agentbrokercoach.com", "  ", "\n"):
-        pass
-    # remove trailing url
-    t = t.replace("agentbrokercoach.com", "").strip()
-    return t
+    return t.replace(web, "").strip() if web else t
 
 
-def _sentences(text):
+def _sentences(text, web=""):
     import re
-    parts = re.split(r"(?<=[.!?])\s+", _clean_body(text))
+    parts = re.split(r"(?<=[.!?])\s+", _clean_body(text, web))
     return [p.strip() for p in parts if len(p.strip()) >= 8]
 
 
@@ -685,16 +696,18 @@ def _accent_word(line):
 def script_from_post(brand_key, th, post, look, idx=0):
     """Build a unique video script from one content post, rendered in `look`."""
     web = {"agent_broker_coach": "agentbrokercoach.com",
+           "done_for_you_leads": "doneforuleads.com",
            "autismworks": "autismworks.com"}.get(brand_key, "")
     headline = post.get("headline", "").strip()
     fb = (post.get("variants", {}).get("facebook", {}) or {}).get("text", "")
-    sents = _sentences(fb) or _sentences(post.get("variants", {}).get("instagram", {}).get("text", ""))
+    sents = _sentences(fb, web) or _sentences(post.get("variants", {}).get("instagram", {}).get("text", ""), web)
     # pick body lines that aren't just the headline
     body_lines = [s for s in sents if s.rstrip(".!?").lower() != headline.rstrip(".!?").lower()]
     if not body_lines:
         body_lines = sents or [headline]
     align = look.get("align", "center")
-    card_title, card_bullets = CARD_BANK[idx % len(CARD_BANK)]
+    cards = CARD_BANKS.get(brand_key, CARD_BANK)
+    card_title, card_bullets = cards[idx % len(cards)]
     kicker = th["name"]
     li = 0
     script = []
@@ -719,7 +732,7 @@ def script_from_post(brand_key, th, post, look, idx=0):
                            "button": "Let's talk", "card_bg": bg or "glow"})
         elif role == "outro":
             script.append({"type": "outro", "dur": 3.4,
-                           "tagline": "Coaching with Jody McNamer", "website": web})
+                           "tagline": th["tagline"], "website": web})
     return script
 
 

@@ -1,4 +1,6 @@
-"""Agent Broker Coach — 1-week social campaign configuration.
+"""Weekly social campaigns (Agent Broker Coach, Done For You Leads) — configuration.
+
+Run one brand at a time: python run.py go --brand <key> --days N
 
 Schedule: 4 time blocks/day (11 PM, 4 AM, 8 AM, 7 PM) on Pakistan time.
 Each block = 4 image posts + 2 videos = 16 image posts + 8 videos per brand/day.
@@ -68,11 +70,25 @@ BRANDS = {
             "tiktok":    {"account_id": "47152", "target": dict(TIKTOK_TARGET),          "posts": False, "videos": True,  "slots": SESSIONS},
         },
     },
+    # Same schedule as ABC, one minute later. No LinkedIn page for DFY in Blotato.
+    "done_for_you_leads": {
+        "name": "Done For You Leads",
+        "phone": "",
+        "slot_offset_min": 1,
+        "profile": "brands/done_for_you_leads.md",
+        "website": "https://doneforuleads.com",
+        "platforms": {
+            "facebook":  {"account_id": "42338", "target": {"pageId": "1233673419818901"}, "posts": True,  "videos": True,  "slots": SESSIONS},
+            "instagram": {"account_id": "60222", "target": {},                             "posts": True,  "videos": True,  "slots": SESSIONS},
+            "youtube":   {"account_id": "44176", "target": dict(YOUTUBE_TARGET),          "posts": False, "videos": True,  "slots": SESSIONS},
+            "tiktok":    {"account_id": "52105", "target": dict(TIKTOK_TARGET),           "posts": False, "videos": True,  "slots": SESSIONS},
+        },
+    },
 }
 
 
 # ---------------------------------------------------------------------------
-# AutismWorks is currently DISABLED (running Agent Broker Coach only).
+# AutismWorks is currently DISABLED (running Agent Broker Coach and Done For You Leads).
 # To turn it back on, paste this entry back inside BRANDS above:
 #   "autismworks": {
 #       "name": "AutismWorks",

@@ -8,6 +8,6 @@ echo Posts to Facebook, Instagram, LinkedIn, YouTube, TikTok on YOUR (Pakistan) 
 echo  - 4 blocks/day (11 PM, 4 AM, 8 AM, 7 PM): 16 images + 8 videos per day.
 echo  - Change --days below: 1 = test day, 7 = the full week.
 echo.
-python run.py go --days 7
+python run.py go --brand agent_broker_coach --days 7
 echo.
 pause
